@@ -1,5 +1,6 @@
 # AIPinball
 AI driven Pinball.  No Drains.  Top Scores.
+
 Building on the Legacy of DeepMind's Breakout Experiment: In 2016, DeepMind achieved remarkable success in training an AI agent to master the Atari game Breakout. This experiment demonstrated the potential of deep reinforcement learning for complex decision-making tasks. The proposed Google Gemini AI-driven pinball experiment builds upon this pioneering work, pushing the boundaries of AI capabilities in several key areas: 
 
 Increased complexity: Compared to Breakout's simple 2D environment, pinball presents a significantly more complex and dynamic world. The AI system would need to account for three-dimensional spatial relationships, diverse ball trajectories, and a wider array of obstacles and targets. 
